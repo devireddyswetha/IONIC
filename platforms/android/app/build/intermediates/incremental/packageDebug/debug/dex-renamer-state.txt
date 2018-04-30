@@ -1,0 +1,4 @@
+#Mon Apr 30 18:38:30 IST 2018
+base.0=/Users/swetha/Practice/Ionic/ionic3-angular4/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/swetha/Practice/Ionic/ionic3-angular4/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
